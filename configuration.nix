@@ -92,14 +92,12 @@
   environment.systemPackages = with pkgs; [
     ghostty
     superfile
-    firefox
     mpv
     mpvScripts.uosc
     heroic
     steam
     git
     # Editor
-    vscode
     xed-editor
 
     # Nix development
